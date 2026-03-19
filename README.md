@@ -1,5 +1,23 @@
 ## Hi there 👋
 
+# Hi 👋 I'm Glazzze
+
+## 👩‍💻 About Me
+- 🎓 Computer Science student in Sun Yat-Sen University
+- 🌱 Currently learning Software Engineering and AI for Life Science.
+
+## 🚀 Projects
+- 📌 Designing software projects
+- 🧪 Trying to reproduce papers
+
+## 🎯 Goals
+- Improve coding skills
+- Learn deep learning
+
+## 🎮 Hobbies
+- Gaming 🎮
+- Watching anime 📺
+
 <!--
 **Glazzze/Glazzze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
