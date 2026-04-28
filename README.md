@@ -4,7 +4,7 @@
 
 ## 👩‍💻 About Me
 - 🎓 Computer Science student in Sun Yat-Sen University
-- 🌱 Currently learning Software Engineering and AI for Life Science.
+- 🌱 Currently learning Software Engineering and AI for Science.
 
 ## 🚀 Projects
 - 📌 Designing software projects
