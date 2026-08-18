@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="270" viewBox="0 0 1080 270" role="img" aria-labelledby="title desc">
+  <title id="title">Current Research and Engineering Focus</title>
+  <desc id="desc">A four-step path from AI for Science and Agents to FLAb reproduction, paper preparation, and open-source and backend development.</desc>
+  <rect width="1080" height="270" rx="22" fill="#f8fafc"/>
+  <text x="60" y="55" fill="#0f172a" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700">Current Research &amp; Engineering Focus</text>
+  <text x="60" y="82" fill="#64748b" font-family="Arial, Helvetica, sans-serif" font-size="15">Learning through research reproduction, independent work, and open-source practice</text>
+
+  <line x1="255" y1="164" x2="297" y2="164" stroke="#cbd5e1" stroke-width="4" stroke-linecap="round"/>
+  <line x1="510" y1="164" x2="552" y2="164" stroke="#cbd5e1" stroke-width="4" stroke-linecap="round"/>
+  <line x1="765" y1="164" x2="807" y2="164" stroke="#cbd5e1" stroke-width="4" stroke-linecap="round"/>
+
+  <g transform="translate(60 112)">
+    <rect width="195" height="105" rx="16" fill="#e0f2fe"/>
+    <circle cx="27" cy="28" r="15" fill="#0284c7"/>
+    <text x="27" y="33" fill="#ffffff" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700">1</text>
+    <text x="25" y="63" fill="#075985" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700">AI4S &amp; Agents</text>
+    <text x="25" y="87" fill="#0369a1" font-family="Arial, Helvetica, sans-serif" font-size="13">Research directions</text>
+  </g>
+
+  <g transform="translate(315 112)">
+    <rect width="195" height="105" rx="16" fill="#fce7f3"/>
+    <circle cx="27" cy="28" r="15" fill="#db2777"/>
+    <text x="27" y="33" fill="#ffffff" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700">2</text>
+    <text x="25" y="63" fill="#9d174d" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700">FLAb Reproduction</text>
+    <text x="25" y="87" fill="#be185d" font-family="Arial, Helvetica, sans-serif" font-size="13">Innovation project</text>
+  </g>
+
+  <g transform="translate(570 112)">
+    <rect width="195" height="105" rx="16" fill="#fef3c7"/>
+    <circle cx="27" cy="28" r="15" fill="#d97706"/>
+    <text x="27" y="33" fill="#ffffff" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700">3</text>
+    <text x="25" y="63" fill="#92400e" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700">Paper Preparation</text>
+    <text x="25" y="87" fill="#b45309" font-family="Arial, Helvetica, sans-serif" font-size="13">Independent research</text>
+  </g>
+
+  <g transform="translate(825 112)">
+    <rect width="195" height="105" rx="16" fill="#dcfce7"/>
+    <circle cx="27" cy="28" r="15" fill="#16a34a"/>
+    <text x="27" y="33" fill="#ffffff" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700">4</text>
+    <text x="25" y="61" fill="#166534" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700">Open Source &amp;</text>
+    <text x="25" y="80" fill="#166534" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700">Backend Growth</text>
+    <text x="25" y="96" fill="#15803d" font-family="Arial, Helvetica, sans-serif" font-size="13">Engineering practice</text>
+  </g>
+</svg>

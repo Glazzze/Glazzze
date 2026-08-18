@@ -9,6 +9,10 @@
 - 🌱 Currently strengthening my software-engineering foundation through backend development, while continuing to learn from research and open-source practice.
 - 💼 Actively refining my portfolio and resume as I prepare for software and AI-related internship opportunities.
 
+## 🧭 Current Focus
+
+![Research and engineering focus](assets/research-focus.svg)
+
 ## 🚀 Projects
 
 - 🧪 Working on a university-level innovation project that reproduces research results in [FLAb](https://github.com/Glazzze/FLAb), with a focus on understanding experimental settings, implementation details, and reproducible evaluation.
@@ -40,6 +44,13 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Backend Learning](https://img.shields.io/badge/Backend-Learning-4CAF50?style=flat-square)
+
+## 🐍 Contribution Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Glazzze/Glazzze/output/github-contribution-grid-snake-dark.svg">
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Glazzze/Glazzze/output/github-contribution-grid-snake.svg">
+</picture>
 
 ## ✨ Beyond Coding
 
