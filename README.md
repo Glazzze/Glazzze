@@ -9,10 +9,6 @@
 - 🌱 Currently strengthening my software-engineering foundation through backend development, while continuing to learn from research and open-source practice.
 - 💼 Actively refining my portfolio and resume as I prepare for software and AI-related internship opportunities.
 
-## 🧭 Current Focus
-
-![Research and engineering focus](assets/research-focus.svg)
-
 ## 🚀 Projects
 
 - 🧪 Working on a university-level innovation project that reproduces research results in [FLAb](https://github.com/Glazzze/FLAb), with a focus on understanding experimental settings, implementation details, and reproducible evaluation.
