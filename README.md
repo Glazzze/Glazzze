@@ -15,12 +15,35 @@
 - 📝 Independently preparing a research paper for submission. This is a separate research effort from the FLAb reproduction project.
 - 🤝 Staying active in the open-source community: learning from established projects, contributing improvements where I can, and building stronger engineering habits through real collaboration.
 
+## 🌟 Featured Work
+
+- 🔬 **[FLAb](https://github.com/Glazzze/FLAb)**
+  - Reproducing research results as part of a university innovation project, with an emphasis on experimental details and reproducible evaluation.
+
+- 📝 **Research Paper Preparation**
+  - Developing an independent research project and preparing a paper for submission.
+
+- 🤝 **Open Source Contributions**
+  - Learning through real-world collaboration, testing, code review, and contributions to open-source projects.
+
 ## 🎯 Goals
 
 - 🧠 Deepen my knowledge of AI4S, agentic systems, and the software infrastructure that makes them reliable and useful.
 - ⚙️ Become a more capable backend developer by building practical services and strengthening my understanding of system design.
 - 🌍 Make consistent, meaningful contributions to open-source projects and grow through code review, testing, and collaboration.
 - 🚀 Find an internship where I can contribute, learn quickly, and turn my research and engineering experience into real-world impact.
+
+## 🛠️ Tools & Technologies
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Backend Learning](https://img.shields.io/badge/Backend-Learning-4CAF50?style=flat-square)
+
+## 📊 GitHub Stats
+
+![Glazzze's GitHub stats](https://github-readme-stats.vercel.app/api?username=Glazzze&show_icons=true&theme=transparent&hide_border=true)
 
 ## ✨ Beyond Coding
 
